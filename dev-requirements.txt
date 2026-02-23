@@ -1,0 +1,10 @@
+pylint
+black
+isort
+mkdocs
+mkdocs-material
+mkdocs-macros-plugin
+mkdocstrings[python]
+mkdocstrings-python
+mkdocs-git-revision-date-localized-plugin
+pyinstaller>=6.3
